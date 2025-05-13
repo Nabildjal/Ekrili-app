@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515271246735",
+    "project_id": "appekrili",
+    "storage_bucket": "appekrili.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515271246735:android:d1210a4aa894a486b5c1fa",
+        "android_client_info": {
+          "package_name": "com.example.appekrili"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC47leq1GKNC-VD1o-R0i18DQ7Y26PDMSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
